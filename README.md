@@ -19,10 +19,10 @@
 
 ## 📚 Project
 #### 🖥️ Development
-- 투명한 양방향 급여 관리 서비스 (2024.06 ~ 2024.07)
-- 생성형 AI 기반 자산 관리 서비스 (2024.05 ~ 2024.06)
-- 충청북도 나만의 여행 일정 추천 서비스 (2022.10)
-- 재활용 시뮬레이션 기능성 게임 (2022.06 ~ 2022.07)
+- [투명한 양방향 급여 관리 서비스 (2024.06 ~ 2024.07)](https://github.com/sseohalee/channel-server)
+- [생성형 AI 기반 자산 관리 서비스 (2024.05 ~ 2024.06)](https://github.com/sseohalee/hana-piece-client)
+- [충청북도 나만의 여행 일정 추천 서비스 (2022.10)](https://github.com/sseohalee/Chungbuk-euro)
+- [재활용 시뮬레이션 기능성 게임 (2022.06 ~ 2022.07)](https://github.com/2022-ICCAS-Team8/recycle-PartTimeJob)
 
 
 #### 📋 Data Analysis
